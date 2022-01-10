@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "370046445010",
+    "firebase_url": "https://bashir-8ddcb.firebaseio.com",
+    "project_id": "bashir-8ddcb",
+    "storage_bucket": "bashir-8ddcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370046445010:android:ddee9434ddff459e6cd40b",
+        "android_client_info": {
+          "package_name": "com.example.bashir_village"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370046445010-ebs6b554t3o67u6p091qu32qn9tc83r3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bashir_village",
+            "certificate_hash": "d27c805bca17a41ee51c84b7d018d9d2357f5e77"
+          }
+        },
+        {
+          "client_id": "370046445010-dm9572kmr79qp2igehcte3evd8cbmghb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw8MphVvBijSx8_-DlXAVirv_Y1ixhowI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370046445010-dm9572kmr79qp2igehcte3evd8cbmghb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "370046445010-5mscjtthv4p3tmnklb565v5u0pep72lm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tqnee.bashir",
+                "app_store_id": "1463982460"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

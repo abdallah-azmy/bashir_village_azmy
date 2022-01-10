@@ -1,0 +1,78 @@
+name: bashir_village
+description: A new Flutter application.
+version: 1.0.0+9
+
+environment:
+  #  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  #  shared_preferences: ^0.4.3
+  shared_preferences:
+  dio:
+  rxdart: ^0.22.1
+  flutter_launcher_icons: "^0.7.2"
+  url_launcher:
+  flutter_spinkit:
+  awesome_dialog:
+  carousel_pro:
+  flutter_staggered_animations:
+  #  image_picker: ^0.5.4
+#  image_picker: 0.8.2
+  image_picker:
+  pin_code_fields:
+  curved_navigation_bar: ^0.3.1
+  multi_image_picker: ^4.6.1
+  video_player:
+  chewie: 1.0.0
+  flutter_swiper:
+  card_swiper: ^1.0.4
+
+  bubble_tab_indicator: "^0.1.4"
+  font_awesome_flutter: ^8.7.0
+  firebase_messaging:  10.0.7
+  provider:
+  intl: ^0.16.1
+  slide_countdown_clock:
+  #  flutter_ringtone_player:
+#  cache_image:
+  titled_navigation_bar: ^3.6.0
+  esys_flutter_share:
+  flutter_bloc: ^7.2.0
+  connectivity:
+  fluttertoast:
+  lottie:
+  cached_network_image:
+  firebase_dynamic_links: ^3.0.1
+  photo_view:
+
+  #  simple_image_crop: ^0.1.3
+  #  simple_image_crop:
+  cupertino_icons:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/logoFinal.png"
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/lolitJson/
+
+
+  fonts:
+    - family: RB
+      fonts:
+        - asset: assets/fonts/RB.ttf
+
